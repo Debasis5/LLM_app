@@ -1,0 +1,10 @@
+# Ignore folders
+classes/
+notebook/
+venv/
+
+# ENV 
+.env
+
+#Files
+chat.py
